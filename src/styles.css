@@ -1,0 +1,19 @@
+body{
+    background-color: rgba(156, 163, 175)
+}
+
+.caroussel-container{
+    width: 90%;
+    margin: auto;
+}
+
+.card-container{
+    height: auto;
+    width: 200px;
+}
+
+.card-container img{
+    width: 100%;
+    height: 100%;
+}
+
